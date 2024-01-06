@@ -1,0 +1,4 @@
+.clang-format
+desktop.ini
+/build/**
+/data/*presets.ini
